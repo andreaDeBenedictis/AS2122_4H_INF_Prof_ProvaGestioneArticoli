@@ -30,7 +30,7 @@ namespace AS2122_4H_INF_Prof_ProvaGestioneArticoli
         private void btnSalva_Click(object sender, EventArgs e)
         {
             // TODO: (7) passaggio all' attributo/property dei dati inseriti nella frmArticoli con controllo di valorizzazione del dato
-            // ... descrizione, unitaMisura, prezzo
+            
 
             status = DialogResult.OK;
             Close();
